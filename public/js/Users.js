@@ -1,8 +1,8 @@
 export const Users = {
     1: [
-        "Kukis", "Otawa"
+        "Rio&Lidia", "Kukis&Basah"
     ],
     2: [
-        "Basah"
+        "Kukis&Lumer"
     ]
 }
